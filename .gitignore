@@ -1,0 +1,65 @@
+# Conda environments
+env/
+conda_env/
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+/.conda
+
+# Editor settings
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Data and output files
+data/
+outputs/
+results/
+*.csv
+*.txt
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Database backups and exports
+*.sql
+*.dump
+*.bak
+*.csv
+*.json
+*.xml
+
+# Local database configurations
+db_config.json
+database.yml
+db_credentials.json
+
+# Migration files (if applicable)
+alembic.ini
+migrations/
