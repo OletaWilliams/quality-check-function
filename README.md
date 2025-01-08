@@ -12,7 +12,7 @@ A preloading quality check function that evaluates a given pandas DataFrame for:
 - **Missing ratings**: Counts rows where the rating column is null.
 - **Invalid ratings**: Counts rows where rating values are outside the valid range of 1 to 5.
 
-The function returns a dictionary summarizing these issues.
+The function returns a dictionary summarising these issues.
 
 **Input**:
 • A pandas DataFrame with review and rating columns.
