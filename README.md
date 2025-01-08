@@ -39,8 +39,8 @@ A utility function to load the validated DataFrame into a PostgreSQL database ta
 
 **Features**:
 
-    •	Uses SQLAlchemy to connect to PostgreSQL.
-    •	Ensures the data is loaded without overwriting the existing table structure.
+- Uses SQLAlchemy to connect to PostgreSQL.
+- Ensures the data is loaded without overwriting the existing table structure.
 
 ### Dependencies
 
